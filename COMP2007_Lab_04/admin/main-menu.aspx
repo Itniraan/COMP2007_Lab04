@@ -7,24 +7,24 @@
     <div class="well">
         <h3>Departments</h3>
         <ul class="list-group">
-            <li class="list-group-item"><a href="/departments.aspx">List Departments</a></li>
-            <li class="list-group-item"><a href="/department.aspx">Add Departments</a></li>
+            <li class="list-group-item"><a href="/admin/departments.aspx">List Departments</a></li>
+            <li class="list-group-item"><a href="/admin/department.aspx">Add Departments</a></li>
         </ul>
     </div>
 
     <div class="well">
         <h3>Courses</h3>
         <ul class="list-group">
-            <li class="list-group-item"><a href="/courses.aspx">List Courses</a></li>
-            <li class="list-group-item"><a href="/course.aspx">Add Course</a></li>
+            <li class="list-group-item"><a href="/admin/courses.aspx">List Courses</a></li>
+            <li class="list-group-item"><a href="/admin/course.aspx">Add Course</a></li>
         </ul>
     </div>
 
     <div class="well">
         <h3>Students</h3>
         <ul class="list-group">
-            <li class="list-group-item"><a href="/students.aspx">List Students</a></li>
-            <li class="list-group-item"><a href="/student.aspx">Add Student</a></li>
+            <li class="list-group-item"><a href="/admin/students.aspx">List Students</a></li>
+            <li class="list-group-item"><a href="/admin/student.aspx">Add Student</a></li>
         </ul>
     </div>
 </asp:Content>
